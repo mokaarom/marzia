@@ -7,3 +7,18 @@ other/
 *.log
 .env*
 !.env.example
+
+# Cloudflare & Wrangler
+.wrangler/
+.cloudflare/
+wrangler.toml.local
+*.log
+
+# Editor & OS
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
