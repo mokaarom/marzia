@@ -22,3 +22,6 @@ wrangler.toml.local
 *.njsproj
 *.sln
 *.sw?
+
+# Docs
+/tmm
